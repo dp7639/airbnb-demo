@@ -16,7 +16,7 @@ export default function Home({ exploreData, cardsData }: { exploreData: any, car
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Header placeholder='{placeholder:any;}' />
+      <Header placeholder='Start your search!' />
       <Banner />
       <main className='max-w-7xl mx-auto px-8 sm:px-16'>
         <section className='pt-6'>
